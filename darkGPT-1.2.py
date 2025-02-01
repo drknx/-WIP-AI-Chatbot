@@ -1,3 +1,5 @@
+# this code crashed my computer (9300h gtx 1650  (i shouldnt be flexing)) so run at ur own risk. approx 5 billion parameteres
+# made using a tutorial from youtube. 
 from transformers import AutoModelForCausalLM, AutoTokenizer
 import torch
 import tkinter as tk
