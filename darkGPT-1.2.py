@@ -1,4 +1,5 @@
-# this code crashed my computer (9300h gtx 1650  (i shouldnt be flexing)) so run at ur own risk. approx 5 billion parameteres
+# REVISED code as of 19/2/25 (my code still sucks lmao)
+# this code crashed my computer (9300h gtx 1650  (i shouldnt be flexing)) so run at ur own risk.
 # made using a tutorial from youtube. 
 from transformers import AutoModelForCausalLM, AutoTokenizer
 import torch
